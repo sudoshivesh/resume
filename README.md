@@ -1,5 +1,5 @@
-<h1 align="center"><b> Shivesh's Resume cum Curriculum Vitae </b></h1>
-<h2 align="center"> This is the UI of the Curriculum Vitae.</h2>
+<h1 align="center"><b> Shivesh's Resume</b></h1>
+<h2 align="center"> This is the UI of the Resume.</h2>
 
 ![resume](https://user-images.githubusercontent.com/78317220/188334038-5239a7a3-f702-4fd1-b694-30d16a426822.jpg)
 
